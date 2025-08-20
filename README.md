@@ -17,7 +17,7 @@ Clean, maintainable project structure
 🔴 Live Demo
 
 Replace this with your link
-
+https://giri2404.github.io/greenden-tailwind/
 
 
 🧱 Tech Stack
@@ -31,6 +31,7 @@ greenden/
 ├─ index.html
 ├─ pages/
 │  └─ products.html
+|  └─ contact.html
 ├─ assets/
 │  ├─ images/
 │  └─ screenshots/
@@ -39,3 +40,14 @@ greenden/
 │  └─ output.css       # (CLI build) Generated CSS – DO NOT EDIT
 ├─ tailwind.config.js  # (CLI setup)
 └─ README.md
+
+
+✅ Accessibility & Best Practices
+
+Semantic tags (header, main, section, footer)
+
+Meaningful alt text for images
+
+Sufficient color contrast
+
+Mobile-first responsive utilities
